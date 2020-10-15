@@ -1,3 +1,5 @@
+ifixPhotos is a photo display website developed using the pixabay photos API
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
